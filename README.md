@@ -26,7 +26,7 @@ A modern single-page task manager with a pastel aesthetic and smooth animations.
 
 https://mone-esha.github.io/To-Do-webpage/
 
-cutie-todo/
+todoweb/
 ├── index.html    
 ├── style.css      
 ├── script.js     
