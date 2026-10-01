@@ -1,4 +1,4 @@
-# ✨ To-Do webpage
+# To-Do webpage
 
 > A soft, dreamy, and adorable todo app. 
 
@@ -8,17 +8,17 @@ A modern single-page task manager with a pastel aesthetic and smooth animations.
 
 ## Features
 
-- ✅ Add, edit, and delete tasks
-- 🎯 Mark tasks complete with a satisfying animation
-- 🗂️ Filter by **All**, **Active**, or **Done**
-- 📅 Set due date & time
-- 🎀 Set priority (Low / Medium / High)
-- 🏷️ Add tags to organize tasks
-- 📊 Progress bar with a cute buddy emoji that evolves
-- 🌙 Dark & light mode toggle
-- ⌨️ Typing animation on the header title
-- 💾 Auto-saves to local storage
-- 📱 Fully responsive
+- Add, edit, and delete tasks
+- Mark tasks complete with a satisfying animation
+- Filter by **All**, **Active**, or **Done**
+- Set due date & time
+- Set priority (Low / Medium / High)
+- Add tags to organize tasks
+- Progress bar with a cute buddy emoji that evolves
+- Dark & light mode toggle
+- Typing animation on the header title
+- Auto-saves to local storage
+- Fully responsive
 
 ---
 
