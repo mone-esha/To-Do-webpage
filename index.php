@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/database.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,7 +101,10 @@
     <!-- task list -->
     <ul class="task-list" id="taskList"></ul>
   </main>
+  
 
+  <script>window.__TASKS__ = <?= json_encode(load_tasks(), JSON_HEX_TAG | JSON_HEX_AMP) ?>;</script>
+  <script src="storage.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
