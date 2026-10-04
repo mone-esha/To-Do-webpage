@@ -54,19 +54,17 @@ php -S localhost:8000
 
 5. Open http://localhost:8000/ in your browser.
    
-## Live Demo
 
-https://mone-esha.github.io/To-Do-webpage/
 
 | File | Purpose |
 |---|---|
-| `index.php` 
-| `style.css` 
-| `script.js` 
-| `storage.js` 
-| `api.php` 
-| `database.php` 
-| `config.example.php` 
+| `index.php` | The page; loads saved tasks from MySQL |
+| `style.css` | Styling and themes |
+| `script.js` | App logic |
+| `storage.js` | Redirects task saving from localStorage to the PHP backend |
+| `api.php` | Receives task changes and writes them to MySQL |
+| `db.php` / `database.php` | Database connection and task loading |
+| `config.example.php` | Template for database credentials |
 
 ## Built With
 
