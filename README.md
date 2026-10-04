@@ -17,7 +17,8 @@ A modern single-page task manager with a pastel aesthetic and smooth animations.
 - Progress bar with a cute buddy emoji that evolves
 - Dark & light mode toggle
 - Typing animation on the header title
-- Auto-saves to local storage
+- [EARLIER VER.] Auto-saves to local storage
+- [NEW VER.] Saves in MySQL database through PHP.
 - Fully responsive
 
 ---
@@ -34,8 +35,8 @@ todoweb/
 
 ## Built With
 
-HTML5, CSS3 (custom properties, animations), Vanilla JavaScript
+HTML5, CSS3 (custom properties, animations), Vanilla JavaScript, PHP
 
 Google Fonts (Fredoka, Quicksand) · Font Awesome
 
-LocalStorage API
+MySQL
